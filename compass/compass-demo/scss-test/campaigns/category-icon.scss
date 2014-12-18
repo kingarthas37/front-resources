@@ -1,0 +1,16 @@
+@import "compass/utilities/sprites";
+
+$icon-sprite-dimensions: true;
+$icon-spacing: 1px;
+@import "icon/*.png";
+
+@include all-icon-sprites(true);
+
+
+/*
+$icon2x-sprite-dimensions: true;
+$icon2x-spacing: 2px;
+@import "icon2x*/
+/*.png";
+
+@include all-icon2x-sprites(true);*/
