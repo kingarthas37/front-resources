@@ -9,8 +9,9 @@ jquery_lazyload.min.js
 #####信用卡等号码输入加空格 jquery.payment
 https://github.com/stripe/jquery.payment
 #####基于nodejs的js模块化
-* http://browserify.org/demos.html
-* http://www.mischair.com/demo/fancybox/
+http://browserify.org/demos.html
+#####内容弹出层
+http://www.mischair.com/demo/fancybox/
 #####jquery 验证 validate
 http://jqueryvalidation.org/
 #####[mobile]scroll
